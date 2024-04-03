@@ -10,23 +10,23 @@
 
 ## Задание
 
-##### [Часть 1. Создание сети и проверка настроек коммутатора по умолчанию.](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/main/lab/README.md#%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%B5%D1%82%D0%B8-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA-%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%82%D0%BE%D1%80%D0%B0-%D0%BF%D0%BE-%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E-1)
-##### [Часть 2. Настройка базовых параметров сетевых устройств](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/main/lab/README.md#%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D1%85-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2-%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2-1)
-##### [Часть 3. Проверка сетевых подключений](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/main/lab/README.md#%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B9-1)
+##### [Часть 1. Создание сети и проверка настроек коммутатора по умолчанию.](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/main/lab1(lecture2)/README.md#%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%B5%D1%82%D0%B8-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA-%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%82%D0%BE%D1%80%D0%B0-%D0%BF%D0%BE-%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E-1)
+##### [Часть 2. Настройка базовых параметров сетевых устройств](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/main/lab1(lecture2)/README.md#%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D1%85-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2-%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2-1)
+##### [Часть 3. Проверка сетевых подключений](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/main/lab1(lecture2)/README.md#%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B9-1)
 
 
 
 
 ### Часть 1. Создание сети и проверка настроек коммутатора по умолчанию.
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/85541e2b503f69663019af871e29348856b8b618/lab/01.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/01.png)
 > S1 с отключенным портом
 
  Почему нужно использовать консольное подключение для первоначальной настройки коммутатора? Почему нельзя подключиться к коммутатору через Telnet или SSH?
 
 __Потому что для подключения по SSH нужен IP коммутатора.__
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/02.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/02.png)
 
 Сколько интерфейсов FastEthernet имеется на коммутаторе 2960?
 
@@ -40,14 +40,14 @@ __2__
 
 __0-4 and 5-15__
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/03.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/03.png)
 
 Почему появляется это сообщение?
 
 __Потому что ее еще не задали, не создали, не сохранили, новый коммутатор.__
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/04.png)
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/05.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/04.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/05.png)
 
 Назначен ли IP-адрес сети VLAN 1?
 
@@ -60,7 +60,7 @@ __Нет__
 
 Какой MAC-адрес имеет SVI? Возможны различные варианты ответов.
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/06.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/06.png)
 
 __Sh interfaces vlan 1
 00e0.a345.c634__
@@ -69,7 +69,7 @@ __Sh interfaces vlan 1
 
 Подсоедините кабель Ethernet компьютера PC-A к порту 6 на коммутаторе и изучите IP-свойства интерфейса SVI сети VLAN 1. Дождитесь согласования параметров скорости и дуплекса между коммутатором и ПК.
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/08.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/08.png)
 
 Какие выходные данные вы видите?
 
@@ -109,7 +109,7 @@ __0001.c975.2006__
 
 __Full-duplex, 100Mb/s__
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/09.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/09.png)
 
 Какое имя присвоено сети VLAN 1 по умолчанию?
 
@@ -137,7 +137,7 @@ __Enet__
 Switch# show flash 
 Switch# dir flash: 
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/10.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/10.png)
 
 В конце имени файла указано расширение, например .bin. Каталоги не имеют расширения файла.
 Вопрос:
@@ -158,20 +158,20 @@ Unauthorized access is strictly prohibited. #__
 
 Назначьте IP-адрес интерфейсу SVI на коммутаторе. Благодаря этому вы получите возможность удаленного управления коммутатором.
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/11.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/11.png)
 
 Доступ через порт консоли также следует ограничить с помощью пароля. Используйте cisco в качестве пароля для входа в консоль в этом задании. Конфигурация по умолчанию разрешает все консольные подключения без пароля. Чтобы консольные сообщения не прерывали выполнение команд, используйте параметр logging synchronous.
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/12.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/12.png)
 
 __S1(config)# line con 0
 S1(config-line)# logging synchronous__
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/13.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/13.png)
 
 Настройте каналы виртуального соединения для удаленного управления (vty), чтобы коммутатор разрешил доступ через Telnet. Если не настроить пароль VTY, будет невозможно подключиться к коммутатору по протоколу Telnet.
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/14.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/14.png)
 
 Для чего нужна команда login?
 
@@ -179,8 +179,8 @@ __Команда навешивает замок (команда пассвор�
 
 Настройте IP-адрес на компьютере PC-A.
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/15.png)
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/16.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/15.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/16.png)
 
 Используйте консольное подключение на компьютере PC-A для отображения и проверки конфигурации коммутатора. Команда show run позволяет постранично отобразить всю текущую конфигурацию. Для пролистывания используйте клавишу пробела.
 Пример конфигурации приведен ниже. Параметры, которые вы настроили, выделены желтым. Другие параметры конфигурации — значения IOS по умолчанию.
@@ -262,7 +262,7 @@ end
 
 __S1# show interface vlan 1__
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/17.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/17.png)
 
 Какова полоса пропускания этого интерфейса?
   
@@ -284,7 +284,7 @@ IP PC – 192.168.0.11
   
 IP SW – 192.168.0.10
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/18.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/18.png)
 
 Из командной строки компьютера PC-A отправьте эхо-запрос на административный адрес интерфейса SVI коммутатора S1.
   
@@ -292,12 +292,12 @@ C:\> ping 192.168.1.2
   
 Поскольку компьютеру PC-A нужно преобразовать МАС-адрес коммутатора S1 с помощью ARP, время ожидания передачи первого пакета может истечь. Если эхо-запрос не удается, найдите и устраните неполадки базовых настроек устройства. Проверьте как физические кабели, так и логическую адресацию.
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/19.png)
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/20.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/19.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/20.png)
 
 ### Часть 3. Проверка сетевых подключений
 
-![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/c19a17abc1268224ab4b1406b2d288f160731a50/lab/21.png)
+![](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic/blob/46de0e29690796ffffe0bef4358d81b8bdd21382/lab1(lecture2)/21.png)
 
 ### 	Вопросы для повторения
   
