@@ -54,7 +54,7 @@
   password cisco  
   transport input ssh  
   end  
-  clock set 20:00:00 Apr 16 2023  
+  clock set 20:00:00 Apr 29 2024  
   copy running-config startup-config  
   ```
 ### <a name="3"> 3. Настроить базовые параметры каждого коммутатора.</a>  
