@@ -105,11 +105,11 @@ copy running-config startup-config
 
      R2(config-router)#network 10.53.0.0 0.0.0.255 area 0
 
-Только на R2 добавил конфигурацию, необходимую для объявления сети Loopback 1 в область OSPF 0.
+Только на R2 добавим конфигурацию, необходимую для объявления сети Loopback 1 в область OSPF 0.
 
      R2(config-router)#network 192.168.1.1 0.0.0.0 area 0
 
-Убедился, что OSPFv2 работает между маршрутизаторами. Выполнил  команду **show ip ospf neighbor**, чтобы убедиться, что R1 и R2 сформировали смежность.
+Убедимся, что OSPFv2 работает между маршрутизаторами. Выполним  команду **show ip ospf neighbor**, чтобы убедиться, что R1 и R2 сформировали смежность.
 
      R1#sh ip ospf neighbor
           Neighbor ID     Pri   State           Dead Time   Address         Interface
@@ -129,7 +129,7 @@ copy running-config startup-config
 
   <image src="./r1-route.PNG" alt="Таблица маршрутов R1."> 
 
-Запустил Ping до адреса интерфейса R2 Loopback 1 из R1. Выполнение команды ping было успешным.
+Запустим Ping до адреса интерфейса R2 Loopback 1 из R1. Выполнение команды ping было успешным.
 
      R1#ping 192.168.1.1
 
@@ -206,7 +206,7 @@ copy running-config startup-config
      L       192.168.1.1/32 is directly connected, Loopback1
      O*E2 0.0.0.0/0 [110/1] via 10.53.0.1, 00:01:32, GigabitEthernet0/0/1
 
-Добавил конфигурацию, необходимую для OSPF для обработки R2 Loopback 1 как сети точка-точка. Это привело к тому, что OSPF объявляет Loopback 1 использует маску подсети интерфейса.
+Добавим конфигурацию, необходимую для OSPF для обработки R2 Loopback 1 как сети точка-точка. Это привело к тому, что OSPF объявляет Loopback 1 использует маску подсети интерфейса.
 
      R2#sh ip ospf interface loopback 1
 
